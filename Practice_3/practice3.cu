@@ -1,4 +1,4 @@
-#include <iostream>                    ъ
+#include <iostream>                    
 #include <vector>                       
 #include <algorithm>                    
 #include <chrono>                       
@@ -181,3 +181,4 @@ int main() {
     for (int n : sizes) benchmark(n);             // Запуск бенчмарка
     return 0;                                     // Завершение программы
 }
+
