@@ -1,8 +1,8 @@
 # Heterogeneous-Parallelization
 
 ## Student
-- **ФИО:** Dana Orenkyzy 
-- **Группа:** ADA-2404M
+- **Name:** Dana Orenkyzy 
+- **Group:** ADA-2404M
 
 ## Completed works
 - [x] Practice 1
