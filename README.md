@@ -8,9 +8,13 @@
 - [x] Practice 1
 - [x] Practice 2
 - [x] Practice 3
+- [x] Practice 4
+- [x] Practice 5
+- [x] Practice 6
 
 - [x] Assignment 1
 - [x] Assignment 2
+- [x] Assignment 3
 
 ## Technologies used
 - C++
